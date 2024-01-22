@@ -104,11 +104,15 @@ References:
 
 ### Week 2: Virtual Machines
 
-[Virtual Machines](https://docs.google.com/presentation/d/1_DLK6JmCaVyFRZKHaDKI9uZ8kLI039rGquLinosDfUc/edit?usp=sharing) 
+[Virtual Machines](https://docs.google.com/presentation/d/1_DLK6JmCaVyFRZKHaDKI9uZ8kLI039rGquLinosDfUc/edit?usp=sharing)   
 
+[Lab 2 Virtual Machines](https://docs.google.com/document/d/1VAXeCc17Z4HqEgFeUSkYEe4BCAhcAMiVMU2CpoBTb00/edit?usp=sharing)
+
+<!--
 [Lab 2: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
 
 [Lab 3: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1KA7DlPtYOd4JO3J8fygLDxEtw36hgIoeduiac0XIPIY/edit?usp=sharing)
+-->
 
 [Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
 
