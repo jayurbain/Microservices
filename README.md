@@ -108,9 +108,9 @@ References:
 
 [Lab 2 Virtual Machines](https://docs.google.com/document/d/1VAXeCc17Z4HqEgFeUSkYEe4BCAhcAMiVMU2CpoBTb00/edit?usp=sharing)
 
-<!--
-[Lab 2: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
+[Lab 3: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
 
+<!--
 [Lab 3: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1KA7DlPtYOd4JO3J8fygLDxEtw36hgIoeduiac0XIPIY/edit?usp=sharing)
 -->
 
