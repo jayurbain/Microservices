@@ -81,8 +81,6 @@ Note: No class Monday
 
 [Introduction to Microservices](https://docs.google.com/presentation/d/1ky-Oj19UXCS4EycsV4bXkY2JojuUW1idTY6mxip15G8/edit?usp=sharing)
 
-[State of the Cloud](https://docs.google.com/presentation/d/12BXwNZB_w8kj9oiQtrqrg4OJZPnuBYlXBYJ3a7C247k/edit?usp=sharing)
-
 [Lab 1 - Introduction to Cloud Computing using AWS](https://docs.google.com/document/d/1umFyMuCpuccp9mrPfZk4ygAGBxkZIVNvUsSXPyjq8h8/edit?usp=sharing)
 
 Reading: Chapter 1 (BM).
@@ -102,17 +100,13 @@ References:
   
 ---
 
-### Week 2: Virtual Machines
+### Week 2: Virtual Machines, Infrastructure as a Service
 
 [Virtual Machines](https://docs.google.com/presentation/d/1_DLK6JmCaVyFRZKHaDKI9uZ8kLI039rGquLinosDfUc/edit?usp=sharing)   
 
 [Lab 2 Virtual Machines](https://docs.google.com/document/d/1VAXeCc17Z4HqEgFeUSkYEe4BCAhcAMiVMU2CpoBTb00/edit?usp=sharing)
 
 [Lab 3: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
-
-<!--
-[Lab 3: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1KA7DlPtYOd4JO3J8fygLDxEtw36hgIoeduiac0XIPIY/edit?usp=sharing)
--->
 
 [Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
 
@@ -123,11 +117,15 @@ Reading:
 
 ---
 
-### Week 3: Containers 
+### Week 3: Platform as a Service, Containers 
+
+[State of the Cloud](https://docs.google.com/presentation/d/12BXwNZB_w8kj9oiQtrqrg4OJZPnuBYlXBYJ3a7C247k/edit?usp=sharing)
+
+[Lab 4: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1uYprsSkgjhWwgJF-JydYWFAFy6oKtbZzX9kVOaeGSMY/edit?usp=sharing)
 
 [Intro to Docker and Containers](https://docs.google.com/presentation/d/1CbYr7ITk-0SB0dH-EWYjeEdfF22DHbL9aEzAKfVuqvw/edit?usp=sharing)
 
-[Lab 4: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
+[Lab 5: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
 
 Reference:  
 Install Python, pip, and the EB CLI on Linux (Thanks Harry Kubiak!)     
