@@ -121,11 +121,11 @@ Reading:
 
 [State of the Cloud](https://docs.google.com/presentation/d/12BXwNZB_w8kj9oiQtrqrg4OJZPnuBYlXBYJ3a7C247k/edit?usp=sharing)
 
+[Lab 4 Platform as a Service Mulligan - DigitalOcean](https://docs.google.com/document/d/1hSLSXYpqaIg4u30UxgmwJg0QFAFNmME3-XY1g_Te3Ek/edit?usp=sharing)  
+
+<!--
 [Lab 4: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1uYprsSkgjhWwgJF-JydYWFAFy6oKtbZzX9kVOaeGSMY/edit?usp=sharing)
-
-[Intro to Docker and Containers](https://docs.google.com/presentation/d/1CbYr7ITk-0SB0dH-EWYjeEdfF22DHbL9aEzAKfVuqvw/edit?usp=sharing)
-
-[Lab 5: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
+-->
 
 Reference:  
 Install Python, pip, and the EB CLI on Linux (Thanks Harry Kubiak!)     
@@ -133,13 +133,17 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.htm
 
 ---
 
-### Week 4: Container Orchestration with Docker Compose and Kubernetes
+### Week 4: Containers, Constainer Orchestration with Docker Compose and Kubernetes
+
+
+[Intro to Docker and Containers](https://docs.google.com/presentation/d/1CbYr7ITk-0SB0dH-EWYjeEdfF22DHbL9aEzAKfVuqvw/edit?usp=sharing)
+
+[Lab 5: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
+
 
 [Container Orchestration](https://docs.google.com/presentation/d/1T4N9rcsfKk_Qlj6E3wxb-Js58_ifsG9wGLyVTKMYcRA/edit?usp=sharing)
 
 [Lab 5: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
-
-[Lab 6: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/1z6fkpfDdjuaPl9_zOaI7Hk-yhioZoXKSsg-jwJt1ZNE/edit?usp=sharing)
 
 References:  
 
@@ -154,8 +158,11 @@ References:
 
 [Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
 
-[Lab 17: DynamoDB Web App](https://docs.google.com/document/d/1crUDhpT3c5uzKunTMMiwFSU2IPuiN0YJKNvMcrSeTKs/edit?usp=sharing)
+[Lab 6: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/1z6fkpfDdjuaPl9_zOaI7Hk-yhioZoXKSsg-jwJt1ZNE/edit?usp=sharing)
 
+<!--
+[Lab 17: DynamoDB Web App](https://docs.google.com/document/d/1crUDhpT3c5uzKunTMMiwFSU2IPuiN0YJKNvMcrSeTKs/edit?usp=sharing)
+-->
 ---
 
 ### Week 6: Distributed Data Platforms, Spark
