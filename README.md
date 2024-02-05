@@ -133,17 +133,15 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.htm
 
 ---
 
-### Week 4: Containers, Constainer Orchestration with Docker Compose and Kubernetes
-
+### Week 4: Containers, Container Orchestration with Docker Compose and Kubernetes
 
 [Intro to Docker and Containers](https://docs.google.com/presentation/d/1CbYr7ITk-0SB0dH-EWYjeEdfF22DHbL9aEzAKfVuqvw/edit?usp=sharing)
 
-[Lab 5: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
-
+[Lab 5: Docker Lab Extraordinaire](https://docs.google.com/document/d/1dNN8bvMcV8j8gWYEwvSqTG6QAMawbhImnlt-FkL6968/edit?usp=sharing)
 
 [Container Orchestration](https://docs.google.com/presentation/d/1T4N9rcsfKk_Qlj6E3wxb-Js58_ifsG9wGLyVTKMYcRA/edit?usp=sharing)
 
-[Lab 5: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
+[Lab 6: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
 
 References:  
 
