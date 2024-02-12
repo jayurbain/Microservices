@@ -161,7 +161,7 @@ References:
 
 [Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
 
-[Lab 6: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/1z6fkpfDdjuaPl9_zOaI7Hk-yhioZoXKSsg-jwJt1ZNE/edit?usp=sharing)
+[Lab : Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/1z6fkpfDdjuaPl9_zOaI7Hk-yhioZoXKSsg-jwJt1ZNE/edit?usp=sharing)
 
 -->
 <!--
