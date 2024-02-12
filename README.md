@@ -150,14 +150,20 @@ References:
 
 ---
 
-### Week 5: CAP Theorem, Distributed Storage Systems
+### Week 5: Kubernetes Clusters, Review
 
+[Container Orchestration - Kubernetes](https://docs.google.com/presentation/d/1T4N9rcsfKk_Qlj6E3wxb-Js58_ifsG9wGLyVTKMYcRA/edit?usp=sharing)
+
+[Lab 7: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/16fPx_CXs9WBDWvlw6R5SVsM5e36gaf7jeGOKqXVjVRk/edit?usp=sharing)
+
+<!--
 [CAP Theorem](https://drive.google.com/file/d/1gWaU8FC3vLQ674H9Sup9bo-DU3AIhf9f/view?usp=sharing)  
 
 [Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
 
 [Lab 6: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/1z6fkpfDdjuaPl9_zOaI7Hk-yhioZoXKSsg-jwJt1ZNE/edit?usp=sharing)
 
+-->
 <!--
 [Lab 17: DynamoDB Web App](https://docs.google.com/document/d/1crUDhpT3c5uzKunTMMiwFSU2IPuiN0YJKNvMcrSeTKs/edit?usp=sharing)
 -->
