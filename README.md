@@ -156,8 +156,9 @@ References:
 
 [Lab 7: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/16fPx_CXs9WBDWvlw6R5SVsM5e36gaf7jeGOKqXVjVRk/edit?usp=sharing)
 
+[Midterm 1 Exam Review Guide](https://docs.google.com/document/d/1VKyQVOl4YkPpmmEfrA6KF33yd3nTbFV5/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
+
 <!--
-[CAP Theorem](https://drive.google.com/file/d/1gWaU8FC3vLQ674H9Sup9bo-DU3AIhf9f/view?usp=sharing)  
 
 [Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
 
@@ -171,9 +172,14 @@ References:
 
 ### Week 6: Distributed Data Platforms, Spark
 
-[Data Platforms](https://docs.google.com/presentation/d/1wCImXY9Q3KWbhLS0q-s5ndKnrPaC9zbq4hdFOW8xK1I/edit?usp=sharing)
+[Midterm 1 Exam](https://docs.google.com/document/d/1VKyQVOl4YkPpmmEfrA6KF33yd3nTbFV5/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)  
+ - Online, written format, no notes
 
-[Lab 7 Part 1 & 2](https://docs.google.com/document/d/1mnORjsRg634MG5JCOO6dU3wGlIyBHqQPEqzJ1yOlroQ/edit?usp=sharing)
+[CAP Theorem](https://drive.google.com/file/d/1gWaU8FC3vLQ674H9Sup9bo-DU3AIhf9f/view?usp=sharing)  
+
+[Auto Scaling and Load Balancing](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
+
+[Lab TBD]
 
 References:    
 
@@ -183,7 +189,22 @@ References:
 
 ---
 
-### Week 7: Machine Learning on Large Distributed Datasets   
+### Week 7: Distributed Data Platforms, Spark
+
+[Data Platforms](https://docs.google.com/presentation/d/1wCImXY9Q3KWbhLS0q-s5ndKnrPaC9zbq4hdFOW8xK1I/edit?usp=sharing)
+
+[Lab 8 Part 1 & 2](https://docs.google.com/document/d/1mnORjsRg634MG5JCOO6dU3wGlIyBHqQPEqzJ1yOlroQ/edit?usp=sharing)
+
+References:    
+
+[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
+
+[Google's BigTable](http://jayurbain.com/msoe/cs4230/slides/cs4230-googleBigTable.pdf)
+
+---
+
+
+### Week 8: Machine Learning on Large Distributed Datasets   
 
 [Scalable Machine Learning](https://docs.google.com/presentation/d/1XIHAxrk4uE2CMW2d3rFkXdAY9w1lDTSLwrsW-dwAPr0/edit?usp=sharing)
 
@@ -198,7 +219,7 @@ References:
 
 ---
 
-### Week 8: Modeling Microservices
+### Week 9: Modeling Microservices, Refactoring Applications into Microservices
 
 [Modeling Microservices](https://docs.google.com/presentation/d/1HLOVjrULeWjiZ6RvGBDaSnabpKrf--OHs8cszqLFNxA/edit?usp=sharing)
 
@@ -206,18 +227,13 @@ References:
 
 Reading: Chapter 2 (BM).
 
----
-
-
-### Week 9: Refactoring Services into Microservices
-
 [Refactoring Services into Microservices]
 
 [Lab]
 
----
-
 Reading: Chapter 3 (BM).
+
+---
 
 ### Week 10: Communication Styles, Implementing Microservice Communication
 
