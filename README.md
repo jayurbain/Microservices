@@ -175,15 +175,15 @@ References:
 [Midterm 1 Exam](https://docs.google.com/document/d/1VKyQVOl4YkPpmmEfrA6KF33yd3nTbFV5/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)  
  - Online, written format, no notes
 
-[CAP Theorem](https://drive.google.com/file/d/1gWaU8FC3vLQ674H9Sup9bo-DU3AIhf9f/view?usp=sharing)  
-
-[Auto Scaling and Load Balancing](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
+[Auto Scaling and Load Balancing](https://docs.google.com/presentation/d/1bNsVBHAtkEFOljHatV1_ygPA2LQ7BCR0sHkR2QLlxMQ/edit?usp=sharing)
 
 [Lab 8: Deploy Flask on Kubernetes Cluster Hosted by Digital Ocean](https://docs.google.com/document/d/1tQSmogs_YZcs7pxzbCIQ2XFzm9EW3KO9a08_goS1XM0/edit?usp=sharing)
 
 ---
 
 ### Week 7: Distributed Data Platforms, Spark
+
+[CAP Theorem](https://drive.google.com/file/d/1gWaU8FC3vLQ674H9Sup9bo-DU3AIhf9f/view?usp=sharing)  
 
 [Data Platforms](https://docs.google.com/presentation/d/1wCImXY9Q3KWbhLS0q-s5ndKnrPaC9zbq4hdFOW8xK1I/edit?usp=sharing)
 
