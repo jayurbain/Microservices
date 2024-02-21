@@ -179,13 +179,7 @@ References:
 
 [Auto Scaling and Load Balancing](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
 
-[Lab TBD]
-
-References:    
-
-[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
-
-[Google's BigTable](http://jayurbain.com/msoe/cs4230/slides/cs4230-googleBigTable.pdf)
+[Lab 8: Deploy Flask on Kubernetes Cluster Hosted by Digital Ocean](https://docs.google.com/document/d/1tQSmogs_YZcs7pxzbCIQ2XFzm9EW3KO9a08_goS1XM0/edit?usp=sharing)
 
 ---
 
