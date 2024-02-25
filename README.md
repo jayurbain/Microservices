@@ -181,7 +181,35 @@ References:
 
 ---
 
-### Week 7: Distributed Data Platforms, Spark
+### Week 7: Modeling Microservices, Refactoring Applications into Microservices
+
+[Modeling Microservices](https://docs.google.com/presentation/d/1HLOVjrULeWjiZ6RvGBDaSnabpKrf--OHs8cszqLFNxA/edit?usp=sharing)
+
+[Lab]
+
+Reading: Chapter 2 (BM).
+
+[Refactoring Services into Microservices]
+
+[Lab]
+
+Reading: Chapter 3 (BM).
+
+---
+
+### Week 8: Communication Styles, Implementing Microservice Communication
+
+[Implementing Microservice Communication Styles]
+
+[Implementing Microservice Communication]
+
+[Lab]
+
+Reading: Chapter 4 and 5 (BM).  
+
+---
+
+### Week 9: Distributed Data Platforms, Spark
 
 [CAP Theorem](https://drive.google.com/file/d/1gWaU8FC3vLQ674H9Sup9bo-DU3AIhf9f/view?usp=sharing)  
 
@@ -198,7 +226,7 @@ References:
 ---
 
 
-### Week 8: Machine Learning on Large Distributed Datasets   
+### Week 10: Machine Learning on Large Distributed Datasets   
 
 [Scalable Machine Learning](https://docs.google.com/presentation/d/1XIHAxrk4uE2CMW2d3rFkXdAY9w1lDTSLwrsW-dwAPr0/edit?usp=sharing)
 
@@ -211,33 +239,7 @@ References:
 
 [The Big Book of MLOps - Databricks](The-Big-Book-of-MLOps-v6-082322.pdf)
 
----
 
-### Week 9: Modeling Microservices, Refactoring Applications into Microservices
-
-[Modeling Microservices](https://docs.google.com/presentation/d/1HLOVjrULeWjiZ6RvGBDaSnabpKrf--OHs8cszqLFNxA/edit?usp=sharing)
-
-[Lab]
-
-Reading: Chapter 2 (BM).
-
-[Refactoring Services into Microservices]
-
-[Lab]
-
-Reading: Chapter 3 (BM).
-
----
-
-### Week 10: Communication Styles, Implementing Microservice Communication
-
-[Implementing Microservice Communication Styles]
-
-[Implementing Microservice Communication]
-
-[Lab]
-
-Reading: Chapter 4 and 5 (BM).  
 
 ---
 
