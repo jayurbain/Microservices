@@ -189,7 +189,7 @@ References:
 
 Reading: Chapter 2 (BM).
 
-[Refactoring Services into Microservices]
+[Refactoring Services into Microservices](https://docs.google.com/presentation/d/10yYPltEhJgGRFV_my4fRGf1A5Tt-qznXjxf3832XIpU/edit?usp=sharing)
 
 [Lab]
 
