@@ -170,7 +170,7 @@ References:
 -->
 ---
 
-### Week 6: Distributed Data Platforms, Spark
+### Week 6: Midterm, Autoscaling and Load Balancing
 
 [Midterm 1 Exam](https://docs.google.com/document/d/1VKyQVOl4YkPpmmEfrA6KF33yd3nTbFV5/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)  
  - Online, written format, no notes
@@ -199,7 +199,7 @@ Reading: Chapter 3 (BM).
 
 ### Week 8: Communication Styles, Implementing Microservice Communication
 
-[Implementing Microservice Communication Styles]
+[Implementing Microservice Communication Styles](https://docs.google.com/presentation/d/1dq887MXI_--nbDTRwJOCZBgLCo3BU9xpKo-KPp3Ez5A/edit?usp=sharing)
 
 [Implementing Microservice Communication]
 
