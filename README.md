@@ -220,7 +220,7 @@ Reading: Chapter 4 and 5 (BM).
 
 [Data Platforms](https://docs.google.com/presentation/d/1u0OmWbPpD6pTgLehT25ZV28LtKsfH_xmTFWQkqkALMk/edit?usp=sharing)
 
-[Lab 8 Part 1: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
+[Lab 9 Part 1: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
 
 References:    
 
@@ -239,7 +239,7 @@ Reading: Chapter 10 Resiliency and Chapter 11 Scaling (BM).
 
 [Machine Learning Intro](https://docs.google.com/presentation/d/1R6A_0nqWS7H_6AVnm0L1K8zPy6aReFBFMT0auo5l7Dc/edit?usp=sharing)
 
-[Lab 8 Part 2: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
+[Lab 9 Part 2: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
 
 References:    
 [Introduction to MLOps - Databricks](introduction-to-mlops-aws.pdf)
