@@ -185,13 +185,13 @@ References:
 
 [Modeling Microservices](https://docs.google.com/presentation/d/1HLOVjrULeWjiZ6RvGBDaSnabpKrf--OHs8cszqLFNxA/edit?usp=sharing)
 
-[Lab]
+Lab 8 continued. 
 
 Reading: Chapter 2 (BM).
 
 [Refactoring Services into Microservices](https://docs.google.com/presentation/d/10yYPltEhJgGRFV_my4fRGf1A5Tt-qznXjxf3832XIpU/edit?usp=sharing)
 
-[Lab]
+Lab 8 continued. 
 
 Reading: Chapter 3 (BM).
 
@@ -199,29 +199,36 @@ Reading: Chapter 3 (BM).
 
 ### Week 8: Communication Styles, Implementing Microservice Communication
 
-[Implementing Microservice Communication Styles](https://docs.google.com/presentation/d/1dq887MXI_--nbDTRwJOCZBgLCo3BU9xpKo-KPp3Ez5A/edit?usp=sharing)
+[Implementing Microservice Communication Styles (both weekly lectures)](https://docs.google.com/presentation/d/1dq887MXI_--nbDTRwJOCZBgLCo3BU9xpKo-KPp3Ez5A/edit?usp=sharing)
 
 [Implementing Microservice Communication]
 
-[Lab]
+Lab 8 continued. 
 
 Reading: Chapter 4 and 5 (BM).  
 
 ---
 
+### Sprint Break: 3/9 - 3/17/2024
+
+---
+
+
 ### Week 9: Distributed Data Platforms, Spark
 
-[CAP Theorem](https://drive.google.com/file/d/1gWaU8FC3vLQ674H9Sup9bo-DU3AIhf9f/view?usp=sharing)  
+[CAP Theorem](https://docs.google.com/presentation/d/14az2LNnlih-u7FtB7JtQ7ckJA88zLL0J8iDkf2FJWgc/edit?usp=sharing)  
 
-[Data Platforms](https://docs.google.com/presentation/d/1wCImXY9Q3KWbhLS0q-s5ndKnrPaC9zbq4hdFOW8xK1I/edit?usp=sharing)
+[Data Platforms](https://docs.google.com/presentation/d/1u0OmWbPpD6pTgLehT25ZV28LtKsfH_xmTFWQkqkALMk/edit?usp=sharing)
 
-[Lab 8 Part 1 & 2](https://docs.google.com/document/d/1mnORjsRg634MG5JCOO6dU3wGlIyBHqQPEqzJ1yOlroQ/edit?usp=sharing)
+[Lab 8 Part 1: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
 
 References:    
 
 [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
 
 [Google's BigTable](http://jayurbain.com/msoe/cs4230/slides/cs4230-googleBigTable.pdf)
+
+Reading: Chapter 10 Resiliency and Chapter 11 Scaling (BM).  
 
 ---
 
@@ -232,7 +239,7 @@ References:
 
 [Machine Learning Intro](https://docs.google.com/presentation/d/1R6A_0nqWS7H_6AVnm0L1K8zPy6aReFBFMT0auo5l7Dc/edit?usp=sharing)
 
-[Lab 8 Scalable Linear Regression using PySpark](labs/PySpark/Tutorial%206%20-%20Pyspark%20-%20Machine%20Learning%20.ipynb)  
+[Lab 8 Part 2: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
 
 References:    
 [Introduction to MLOps - Databricks](introduction-to-mlops-aws.pdf)
