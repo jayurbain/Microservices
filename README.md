@@ -220,7 +220,7 @@ Reading: Chapter 4 and 5 (BM).
 
 [Data Platforms](https://docs.google.com/presentation/d/1u0OmWbPpD6pTgLehT25ZV28LtKsfH_xmTFWQkqkALMk/edit?usp=sharing)
 
-[Lab 9 Part 1: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
+[Lab 9 Part 1: Apache Spark](https://docs.google.com/document/d/1mnORjsRg634MG5JCOO6dU3wGlIyBHqQPEqzJ1yOlroQ/edit?usp=sharing)
 
 References:    
 
