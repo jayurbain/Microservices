@@ -228,7 +228,7 @@ References:
 
 [Google's BigTable](http://jayurbain.com/msoe/cs4230/slides/cs4230-googleBigTable.pdf)
 
-Reading: Chapter 10 Resiliency and Chapter 11 Scaling (BM).  
+Reading: Chapter 12 Resiliency and Chapter 13 Scaling (BM).  
 
 ---
 
@@ -239,6 +239,8 @@ Reading: Chapter 10 Resiliency and Chapter 11 Scaling (BM).
 
 [Machine Learning Intro](https://docs.google.com/presentation/d/1R6A_0nqWS7H_6AVnm0L1K8zPy6aReFBFMT0auo5l7Dc/edit?usp=sharing)
 
+[Apache Spark Architecture](https://docs.google.com/presentation/d/1-hMfwAIBVw5zbl1poSDSCgN6zDwuJixl7_TY-kN1twg/edit?usp=sharing)
+
 [Lab 9 Part 2: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
 
 References:    
@@ -247,32 +249,39 @@ References:
 [The Big Book of MLOps - Databricks](The-Big-Book-of-MLOps-v6-082322.pdf)
 
 
-
 ---
 
-### Week 11: Workflow, Building Microservices Applications
+### Week 11: Event Streaming
 
-Reading: Chapter 6 and 7 (BM).
+[Event Streaming, Apache Kafka](https://docs.google.com/presentation/d/1PuJN96ZNfNNzE2Tu4PRWDvfO6DK_aU978YHpy6snSWw/edit?usp=sharing)
+
+[Lab 10 Apache Kafka - Part 1](https://docs.google.com/document/d/1id8l_L_bu2D58WbTwoU5ZDbpMVXUMx3pCWT13csI4uU/edit?usp=sharing)
+
+[Midterm 2 Exam Review Guide]()
 
 ---
 
 ### Week 12: Testing and Deployment, Monitoring and Observability
 
-[Testing and Deployment]
+[Midterm 2 Exam]()
 
-[Final Project]
-
-Reading: Chapter 8 and 9 (BM).
-
-[Monitoring and Observability]
-
-[Final Project]
-
-Reading: Chapter 10 (BM).
+[Lab 10 Apache Kafka - Part 2](https://docs.google.com/document/d/1Mfa7RNdrMN0kvAvWg9ZWBdVL3CD5iq7sYWFEVg-43rY/edit?usp=sharing)
 
 ---
 
-### Week 13: Security and Resilency
+### Week 13: Machine Learning Services, Additional Topics, Final Project 
+
+[Final Project]
+
+[Machine Learning Services]()
+
+[Testing and Deployment]
+
+[Monitoring and Observability]
+
+Reading: Chapter 8 and 9 (BM).
+
+Reading: Chapter 10 (BM).
 
 [Security]
 
@@ -286,7 +295,7 @@ Reading: Chapter 11.
 
 ---
 
-### Week 14: Scaling, Final Project Presentations
+### Week 14: Final Project Presentations
 
 [Scaling]
 
@@ -296,7 +305,7 @@ Reading: Chapter 13.
 
 ---
 
-### Week 15: Final Projects, Review
+### Week 15: Final Projects Presentations, Review
 
 [Final Project]()
 
