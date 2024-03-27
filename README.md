@@ -267,9 +267,13 @@ References:
 
 ---
 
-### Week 12: Testing and Deployment, Monitoring and Observability
+### Week 12: Midterm 2, Authentication and Authorization
 
 [Midterm 2 Exam]()
+
+[Security]
+
+Reading: Chapter 11 (BM).
 
 [Lab 10 Apache Kafka - Part 2](https://docs.google.com/document/d/1Mfa7RNdrMN0kvAvWg9ZWBdVL3CD5iq7sYWFEVg-43rY/edit?usp=sharing)
 
@@ -281,6 +285,8 @@ References:
 
 [Machine Learning Services]()
 
+Additional topics as time allows:
+
 [Testing and Deployment]
 
 [Monitoring and Observability]
@@ -289,25 +295,20 @@ Reading: Chapter 8 and 9 (BM).
 
 Reading: Chapter 10 (BM).
 
-[Security]
-
-Reading: Chapter 11 (BM).
-
 [Resiliency]
 
 Reading: Chapter 11.
 
-[Final Project]
 
 ---
 
 ### Week 14: Final Project Presentations
 
+[Final Project]
+
 [Scaling]
 
 Reading: Chapter 13.
-
-[Final Project]
 
 ---
 
