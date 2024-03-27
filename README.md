@@ -54,10 +54,16 @@ Efficient access patterns.
 paradigms and implementing systems
 - Discussion of public cloud services and comparisons of their offerings
 
-Grading:  
+Current Grading:  
 Weekly labs and final project: 60%   
 Midterms: 20%   
 Final: 20%   
+
+Proposed Grading (no final exam)
+Weekly labs: 40%
+Final project: 30%   
+Midterm 1: 15%   
+Midterm 2: 15%   
 
 Class will be structured in three parts: 
 - Cloud computing.   
@@ -65,7 +71,7 @@ Class will be structured in three parts:
 - Advanced topics and final project.
 
 Office DH425  
-TBD:
+TBD: As needed
 
 References:  
 [Building Microservices, Second Edition, Sam Newman](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) (BM)
