@@ -59,8 +59,8 @@ Weekly labs and final project: 60%
 Midterms: 20%   
 Final: 20%   
 
-Proposed Grading (no final exam)
-Weekly labs: 40%
+Proposed Grading (no final exam)  
+Weekly labs: 40%  
 Final project: 30%   
 Midterm 1: 15%   
 Midterm 2: 15%   
