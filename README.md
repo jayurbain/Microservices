@@ -17,18 +17,18 @@ and complete a final project using a distributed computing platform.
 Upon successful completion of this course, the student will be able 
 to:
 
-- Leverage containerization to package and run software
+- Leverage containerization to package and run software.
 - Design and implement a basic microservice that interacts through REST APIs, 
 implements access controls, uses a distributed storage systems, and is deployed 
 in containerized form.
 - Apply access control patterns using authentication and authorization 
-following security best practices
+following security best practices.
 - Analyze and identify potential throughput, scalability, reliability, 
-and consistency issues with distributed microservice architectures 
+and consistency issues with distributed microservice architectures. 
 - Create and manage continuous integration and deployment to automated
 software related to microservices and pipelines
-- Deploy a multi-sservice distributed application using a container 
-orchestration tool
+- Deploy a multi-service distributed application using a container 
+orchestration tool.
 
 ### Prerequisites by Topic
 
@@ -54,12 +54,12 @@ Efficient access patterns.
 paradigms and implementing systems
 - Discussion of public cloud services and comparisons of their offerings
 
-Current Grading:  
+Old Grading:  
 Weekly labs and final project: 60%   
 Midterms: 20%   
 Final: 20%   
 
-Proposed Grading (no final exam)  
+New Grading (no final exam)  
 Weekly labs: 40%  
 Final project: 30%   
 Midterm 1: 15%   
@@ -281,9 +281,10 @@ Reading: Chapter 11 (BM).
 
 ### Week 13: Machine Learning Services, Additional Topics, Final Project 
 
-[Final Project]
+[Machine Learning Services](https://docs.google.com/document/d/1a2sXv7dq_2aONe5A_aiiCCOYcp8HI5P9/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
 
-[Machine Learning Services]()
+[Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
+
 
 Additional topics as time allows:
 
@@ -304,7 +305,7 @@ Reading: Chapter 11.
 
 ### Week 14: Final Project Presentations
 
-[Final Project]
+[Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
 [Scaling]
 
@@ -314,10 +315,7 @@ Reading: Chapter 13.
 
 ### Week 15: Final Projects Presentations, Review
 
-[Final Project]()
+[Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
 ---
 
-### Week 16: Final Exam
-
-TBD
