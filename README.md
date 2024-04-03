@@ -263,13 +263,13 @@ References:
 
 [Lab 10 Apache Kafka - Part 1](https://docs.google.com/document/d/1id8l_L_bu2D58WbTwoU5ZDbpMVXUMx3pCWT13csI4uU/edit?usp=sharing)
 
-[Midterm 2 Exam Review Guide]()
+[Midterm 2 Exam Review Guide](https://docs.google.com/document/d/1a2sXv7dq_2aONe5A_aiiCCOYcp8HI5P9/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
 
 ---
 
 ### Week 12: Midterm 2, Authentication and Authorization
 
-[Midterm 2 Exam]()
+[Midterm 2 Exam](https://docs.google.com/document/d/1a2sXv7dq_2aONe5A_aiiCCOYcp8HI5P9/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
 
 [Security]
 
