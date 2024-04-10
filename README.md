@@ -263,6 +263,8 @@ References:
 
 [Lab 10 Apache Kafka - Part 1](https://docs.google.com/document/d/1id8l_L_bu2D58WbTwoU5ZDbpMVXUMx3pCWT13csI4uU/edit?usp=sharing)
 
+[Lab 10 Apache Kafka - Part 2](https://docs.google.com/document/d/1Mfa7RNdrMN0kvAvWg9ZWBdVL3CD5iq7sYWFEVg-43rY/edit?usp=sharing)
+
 [Midterm 2 Exam Review Guide](https://docs.google.com/document/d/1a2sXv7dq_2aONe5A_aiiCCOYcp8HI5P9/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
 
 ---
@@ -271,11 +273,10 @@ References:
 
 [Midterm 2 Exam](https://docs.google.com/document/d/1a2sXv7dq_2aONe5A_aiiCCOYcp8HI5P9/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
 
-[Security]
+[Securing Microservices](https://docs.google.com/presentation/d/1h7oCHDBupFok1m_yobXKWDB58-eVth2pRdYzafp38R4/edit?usp=sharing)
 
 Reading: Chapter 11 (BM).
 
-[Lab 10 Apache Kafka - Part 2](https://docs.google.com/document/d/1Mfa7RNdrMN0kvAvWg9ZWBdVL3CD5iq7sYWFEVg-43rY/edit?usp=sharing)
 
 ---
 
@@ -313,7 +314,7 @@ Reading: Chapter 13.
 
 ---
 
-### Week 15: Final Projects Presentations, Review
+### Week 15: Final Projects Presentations
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
