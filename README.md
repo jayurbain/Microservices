@@ -249,10 +249,9 @@ Reading: Chapter 12 Resiliency and Chapter 13 Scaling (BM).
 
 [Lab 9 Part 2: Apache Spark](https://docs.google.com/document/d/1lj1Ly7L8gFLdL_GX6wUzqaIJt6vyHSyT2CfZMhtQ8P0/edit?usp=sharing)
 
-References:    
-[Introduction to MLOps - Databricks](introduction-to-mlops-aws.pdf)
+References:
 
-[The Big Book of MLOps - Databricks](The-Big-Book-of-MLOps-v6-082322.pdf)
+[The Big Book of MLOps - Databricks](2023-10-eb-big-book-of-mlops-2nd-edition-v2-102723-final.pdf)
 
 
 ---
