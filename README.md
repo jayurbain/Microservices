@@ -201,6 +201,8 @@ Lab 8 continued.
 
 Reading: Chapter 3 (BM).
 
+[Making the Move from Monolithic Architecture to Microservices](65d4f248-making-the-move-from-monolithic-architectures-to-microservices-1.pdf)
+
 ---
 
 ### Week 8: Communication Styles, Implementing Microservice Communication
@@ -281,7 +283,7 @@ Reading: Chapter 11 (BM).
 
 ### Week 13: Machine Learning Services, Additional Topics, Final Project 
 
-[Machine Learning Services](https://docs.google.com/document/d/1a2sXv7dq_2aONe5A_aiiCCOYcp8HI5P9/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
+[Machine Learning Services](https://docs.google.com/presentation/d/1KA-pJfNPpuwMmj9ODOb1NvzCj8y3_ajoZqdmyXMV0qw/edit?usp=sharing)
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
