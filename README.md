@@ -296,11 +296,9 @@ Reading: Chapter 11 (BM).
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
-Additional topics as time allows:
+[Dashboards] https://docs.google.com/presentation/d/1Eah6-_9jAQfUimjA2ZotkGv6x9KNguCptomaKVtOjRo/edit?usp=sharing)
 
-[Testing and Deployment]
-
-[Resiliency]
+Microservices for Machine Learning
 
 ---
 
