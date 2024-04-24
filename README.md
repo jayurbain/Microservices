@@ -296,9 +296,9 @@ Reading: Chapter 11 (BM).
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
-[Dashboards] https://docs.google.com/presentation/d/1Eah6-_9jAQfUimjA2ZotkGv6x9KNguCptomaKVtOjRo/edit?usp=sharing)
+[Dashboards](https://docs.google.com/presentation/d/1Eah6-_9jAQfUimjA2ZotkGv6x9KNguCptomaKVtOjRo/edit?usp=sharing)
 
-Microservices for Machine Learning
+[Microservices for Machine Learning](https://docs.google.com/presentation/d/1zkNq0XgbrKJ5z_xPkWN4TlQxa7Rk5R7OH0OOGMaG8U4/edit?usp=sharing)
 
 ---
 
