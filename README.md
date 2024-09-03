@@ -18,7 +18,7 @@ Upon successful completion of this course, the student will be able
 to:
 
 - Leverage containerization to package and run software.
-- Design and implement a basic microservice that interacts through REST APIs, 
+- Design and implement a cloud-based microservices application that interacts through REST APIs, 
 implements access controls, uses a distributed storage systems, and is deployed 
 in containerized form.
 - Apply access control patterns using authentication and authorization 
@@ -39,27 +39,21 @@ orchestration tool.
 ### Course Topics
 
 - Virtual machines, containers, and associated best practices for
-writing containerized, stateless applications
+writing containerized, stateless applications.
 - Microservice architectures, implementation patterns, 
 including event-driven architectures, and designing and implementing REST 
-APIs
+APIs.
 - Distributed storage systems (e.g., key-value stores, columnar stores,
 object stores, distributed file systems, relational databases, and 
-[vector stores]), tradeoffs between consistency, availability, and partition tolerance. 
-Efficient access patterns.
-- Continuous integration and deployment technologies and usage patterns
-- Tooling for orchestration and deployment of multi-service systems
-- Software, Function, Platform, and Infrastructure as service 
-- [CAP Theorem]
-paradigms and implementing systems
+vector stores), tradeoffs between consistency, availability, and partition tolerance. 
+- Efficient access patterns.
+- Continuous integration and deployment technologies and usage patterns.
+- Tooling for orchestration and deployment of multi-service systems.
+- Software, Function, Platform, and Infrastructure as service. 
+- CAP Theorem.
 - Discussion of public cloud services and comparisons of their offerings
 
-Old Grading:  
-Weekly labs and final project: 60%   
-Midterms: 20%   
-Final: 20%   
-
-New Grading (no final exam)  
+Grading (no final exam)  
 Weekly labs: 40%  
 Final project: 30%   
 Midterm 1: 15%   
@@ -148,6 +142,8 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.htm
 [Container Orchestration](https://docs.google.com/presentation/d/1T4N9rcsfKk_Qlj6E3wxb-Js58_ifsG9wGLyVTKMYcRA/edit?usp=sharing)
 
 [Lab 6: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
+
+Note to self: Wednesday class may need to be canceled. Looking for guest speaker.
 
 References:  
 
@@ -313,7 +309,6 @@ Monday and Wednesday 5-minute boaster session for each project:
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)    
 
-Due Friday midnight. 
 
 ---
 
