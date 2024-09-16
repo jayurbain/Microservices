@@ -127,6 +127,10 @@ Reading:
 [Lab 4: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1uYprsSkgjhWwgJF-JydYWFAFy6oKtbZzX9kVOaeGSMY/edit?usp=sharing)
 -->
 
+[Intro to Docker and Containers](https://docs.google.com/presentation/d/1CbYr7ITk-0SB0dH-EWYjeEdfF22DHbL9aEzAKfVuqvw/edit?usp=sharing)
+
+[Lab 5: Docker Lab Extraordinaire](https://docs.google.com/document/d/1dNN8bvMcV8j8gWYEwvSqTG6QAMawbhImnlt-FkL6968/edit?usp=sharing)
+
 Reference:  
 Install Python, pip, and the EB CLI on Linux (Thanks Harry Kubiak!)     
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.html    
@@ -135,15 +139,16 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.htm
 
 ### Week 4: Containers, Container Orchestration with Docker Compose and Kubernetes
 
-[Intro to Docker and Containers](https://docs.google.com/presentation/d/1CbYr7ITk-0SB0dH-EWYjeEdfF22DHbL9aEzAKfVuqvw/edit?usp=sharing)
-
-[Lab 5: Docker Lab Extraordinaire](https://docs.google.com/document/d/1dNN8bvMcV8j8gWYEwvSqTG6QAMawbhImnlt-FkL6968/edit?usp=sharing)
-
+Monday:    
 [Container Orchestration](https://docs.google.com/presentation/d/1T4N9rcsfKk_Qlj6E3wxb-Js58_ifsG9wGLyVTKMYcRA/edit?usp=sharing)
 
 [Lab 6: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
 
-Note to self: Wednesday class may need to be canceled. Looking for guest speaker.
+Wednesday September 25th. Guest lecturer James Grant, VP Engineering, Direct Supply.  
+
+- Refactoring legacy systems  
+- Data-first or interface-first approach  
+- Importance of consistent "plumbing" (e.g. Security, deployment, etc)  
 
 References:  
 
