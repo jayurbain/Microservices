@@ -214,14 +214,9 @@ Reading: Chapter 3 (BM).
 
 Lab 8 continued. 
 
-Reading: Chapter 4 and 5 (BM).  
+Reading: Chapter 4 and 5 (BM).
 
 ---
-
-### Sprint Break: 3/9 - 3/17/2024
-
----
-
 
 ### Week 9: Distributed Data Platforms, Spark
 
