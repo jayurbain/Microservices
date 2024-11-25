@@ -281,7 +281,7 @@ Reading: Chapter 11 (BM).
 
 [Machine Learning Services](https://docs.google.com/presentation/d/1KA-pJfNPpuwMmj9ODOb1NvzCj8y3_ajoZqdmyXMV0qw/edit?usp=sharing)
 
-[Monitoring Microservices](https://docs.google.com/presentation/d/1jxEu6G1Y1fd3sDA3dS_UH5g60Oz743wclIOjMsRU0qg/edit?usp=sharing)
+Wednesday No Class - Thanksgiving Break
  
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
@@ -289,6 +289,8 @@ Reading: Chapter 11 (BM).
 ---
 
 ### Week 14: Final Project Presentations
+
+[Monitoring Microservices](https://docs.google.com/presentation/d/1jxEu6G1Y1fd3sDA3dS_UH5g60Oz743wclIOjMsRU0qg/edit?usp=sharing)
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
@@ -299,6 +301,15 @@ Reading: Chapter 11 (BM).
 ---
 
 ### Week 15: Final Projects Presentations
+
+Monday and Wednesday 5-minute boaster session for each project:
+- What is your project?
+- What problem does it solve?
+- Why were you interested in this project?
+- Brief explanation of your design and functionality.
+- Status and lessons learned
+
+### Week 16: Final Projects Presentations as needed
 
 Monday and Wednesday 5-minute boaster session for each project:
 - What is your project?

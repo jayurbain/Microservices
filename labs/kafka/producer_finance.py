@@ -67,8 +67,8 @@ if __name__ == '__main__':
     while True:
 
         # date range
-        # sd = get_today()
-        sd = get_date_from_string('2024-04-01')
+        sd = get_today()
+        # sd = get_date_from_string('2024-11-11')
         ed = sd + timedelta(days=1)
         # download data
         dfvp = yf.download(tickers=ticker, start=sd, end=ed, interval="1m")
