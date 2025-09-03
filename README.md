@@ -26,7 +26,8 @@ following security best practices.
 - Analyze and identify potential throughput, scalability, reliability, 
 and consistency issues with distributed microservice architectures. 
 - Create and manage continuous integration and deployment to automated
-software related to microservices and pipelines
+software related to microservices and pipelines.
+- Design and deploy distributed machine learning services.
 - Deploy a multi-service distributed application using a container 
 orchestration tool.
 
@@ -52,12 +53,16 @@ vector stores), tradeoffs between consistency, availability, and partition toler
 - Software, Function, Platform, and Infrastructure as service. 
 - CAP Theorem.
 - Discussion of public cloud services and comparisons of their offerings
+- Machine learning services
 
 Grading (no final exam)  
 Weekly labs: 40%  
 Final project: 30%   
 Midterm 1: 15%   
 Midterm 2: 15%   
+
+Class attendance and active participation is expected.
+Grades will be rounded up for active class participants.
 
 Class will be structured in three parts: 
 - Cloud computing.   
@@ -77,7 +82,7 @@ Extra reference:
 
 ### Week 1: Introduction to Microservices
 
-Note: No class Monday
+Note: No class Monday. First class September 3.
 
 [Introduction to Microservices](https://docs.google.com/presentation/d/1ky-Oj19UXCS4EycsV4bXkY2JojuUW1idTY6mxip15G8/edit?usp=sharing)
 
