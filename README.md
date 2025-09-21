@@ -149,11 +149,14 @@ Monday:
 
 [Lab 6: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
 
+<!--
+
 Wednesday September 25th. Guest lecturer James Grant, VP Engineering, Direct Supply.  
 
 - Refactoring legacy systems  
 - Data-first or interface-first approach  
-- Importance of consistent "plumbing" (e.g. Security, deployment, etc)  
+- Importance of consistent "plumbing" (e.g. Security, deployment, etc) 
+-->
 
 References:  
 
