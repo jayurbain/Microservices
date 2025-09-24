@@ -149,6 +149,9 @@ Monday:
 
 [Lab 6: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
 
+Wednesday:  
+[Microservices - Downside](https://docs.google.com/presentation/d/1fzJz0WhEM0bIxARdlXAmTXLHSwOU_sQRcqX53ATX18w/edit?usp=sharing)
+
 <!--
 
 Wednesday September 25th. Guest lecturer James Grant, VP Engineering, Direct Supply.  
