@@ -172,7 +172,10 @@ References:
 
 [Container Orchestration - Kubernetes](https://docs.google.com/presentation/d/1T4N9rcsfKk_Qlj6E3wxb-Js58_ifsG9wGLyVTKMYcRA/edit?usp=sharing)
 
-[Lab 7: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/16fPx_CXs9WBDWvlw6R5SVsM5e36gaf7jeGOKqXVjVRk/edit?usp=sharing)
+[Lab 7 - Deploy a Service on Google Kubernetes - Whoa!](https://docs.google.com/document/d/1-H-g6r-odllHUoiCA-cKkQrvczXcSiK3D5MI_4HA7nk/edit?usp=sharing)
+
+Optional  
+[Lab 7: Deploy a Flask API Service on Kubernetes locally](https://docs.google.com/document/d/16fPx_CXs9WBDWvlw6R5SVsM5e36gaf7jeGOKqXVjVRk/edit?usp=sharing)
 
 [Midterm 1 Exam Review Guide](https://docs.google.com/document/d/1VKyQVOl4YkPpmmEfrA6KF33yd3nTbFV5/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
 
