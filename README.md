@@ -183,7 +183,6 @@ Optional
 
 [Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
 
-[Lab : Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/1z6fkpfDdjuaPl9_zOaI7Hk-yhioZoXKSsg-jwJt1ZNE/edit?usp=sharing)
 
 -->
 <!--
@@ -196,9 +195,8 @@ Optional
 [Midterm 1 Exam](https://docs.google.com/document/d/1VKyQVOl4YkPpmmEfrA6KF33yd3nTbFV5/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)  
  - Online, written format, no notes
 
-[Auto Scaling and Load Balancing](https://docs.google.com/presentation/d/1bNsVBHAtkEFOljHatV1_ygPA2LQ7BCR0sHkR2QLlxMQ/edit?usp=sharing)
+[Lab 7 - Student Kubernetes Application Presentations](https://docs.google.com/document/d/1-H-g6r-odllHUoiCA-cKkQrvczXcSiK3D5MI_4HA7nk/edit?usp=sharing)
 
-[Lab 8: Deploy Flask on Kubernetes Cluster Hosted by Digital Ocean](https://docs.google.com/document/d/1tQSmogs_YZcs7pxzbCIQ2XFzm9EW3KO9a08_goS1XM0/edit?usp=sharing)
 
 ---
 
@@ -206,17 +204,20 @@ Optional
 
 [Modeling Microservices](https://docs.google.com/presentation/d/1HLOVjrULeWjiZ6RvGBDaSnabpKrf--OHs8cszqLFNxA/edit?usp=sharing)
 
-Lab 8 continued. 
-
 Reading: Chapter 2 (BM).
 
 [Refactoring Services into Microservices](https://docs.google.com/presentation/d/10yYPltEhJgGRFV_my4fRGf1A5Tt-qznXjxf3832XIpU/edit?usp=sharing)
 
-Lab 8 continued. 
 
 Reading: Chapter 3 (BM).
 
 [Making the Move from Monolithic Architecture to Microservices](65d4f248-making-the-move-from-monolithic-architectures-to-microservices-1.pdf)
+
+[Lab 8 - Deploy a Multi-container Flask API Service on a Kubernetes Local Cluster - OMG!
+](https://docs.google.com/document/d/16fPx_CXs9WBDWvlw6R5SVsM5e36gaf7jeGOKqXVjVRk/edit?usp=sharing)
+
+
+[Lab 8 - Extra Credit Only: Deploy Flask on Kubernetes Cluster Hosted by Digital Ocean](https://docs.google.com/document/d/1tQSmogs_YZcs7pxzbCIQ2XFzm9EW3KO9a08_goS1XM0/edit?usp=sharing)
 
 ---
 
