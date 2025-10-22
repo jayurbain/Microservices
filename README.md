@@ -223,11 +223,12 @@ Reading: Chapter 3 (BM).
 
 ### Week 8: Communication Styles, Implementing Microservice Communication
 
-[Implementing Microservice Communication Styles (both weekly lectures)](https://docs.google.com/presentation/d/1dq887MXI_--nbDTRwJOCZBgLCo3BU9xpKo-KPp3Ez5A/edit?usp=sharing)
+[Implementing Microservice Communication Styles (both weekly lectures) - 2 lectures](https://docs.google.com/presentation/d/1dq887MXI_--nbDTRwJOCZBgLCo3BU9xpKo-KPp3Ez5A/edit?usp=sharing)
 
 [Implementing Microservice Communication]
 
-Lab 8 continued. 
+[Lab 8x - Building a Python Microservice with Flask, REST, and WebSockets - Wow!
+](https://docs.google.com/document/d/1U5irUx6rmfi4vLVGGgIWqNNL47jJVU-D23j5aLb1MNU/edit?usp=sharing)
 
 Reading: Chapter 4 and 5 (BM).
 
