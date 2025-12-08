@@ -313,13 +313,13 @@ Wednesday No Class - Thanksgiving Break
 
 [Microservices for Machine Learning](https://docs.google.com/presentation/d/1zkNq0XgbrKJ5z_xPkWN4TlQxa7Rk5R7OH0OOGMaG8U4/edit?usp=sharing)
 
-[Agentic RAG Services](https://docs.google.com/presentation/d/1tcqH2DkXXc-K8sVpzuTRgSw7ScDcnBRVzvy2i275Jp4/edit?slide=id.p#slide=id.p)
-
-[Build LLM Agent combining Reasoning and Action (ReAct) framework using LangChain](https://github.com/jayurbain/SearchML/blob/main/labs/ReAct_Example.ipynb)
-
 ---
 
 ### Week 15: Final Projects Presentations
+
+[Agentic RAG Services](https://docs.google.com/presentation/d/1tcqH2DkXXc-K8sVpzuTRgSw7ScDcnBRVzvy2i275Jp4/edit?slide=id.p#slide=id.p)
+
+[Build LLM Agent combining Reasoning and Action (ReAct) framework using LangChain](https://github.com/jayurbain/SearchML/blob/main/labs/ReAct_Example.ipynb)
 
 Monday and Wednesday 5-minute boaster session for each project:
 - What is your project?
