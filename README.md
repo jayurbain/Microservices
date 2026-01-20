@@ -82,7 +82,7 @@ Extra reference:
 
 ### Week 1: Introduction to Microservices
 
-Note: No class Monday. First class September 3.
+Note: No class Monday. First class December 21.
 
 [Introduction to Microservices](https://docs.google.com/presentation/d/1ky-Oj19UXCS4EycsV4bXkY2JojuUW1idTY6mxip15G8/edit?usp=sharing)
 
