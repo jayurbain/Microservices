@@ -124,7 +124,7 @@ Reading:
 
 ### Week 3: Platform as a Service, Containers 
 
-[State of the Cloud](https://docs.google.com/presentation/d/12BXwNZB_w8kj9oiQtrqrg4OJZPnuBYlXBYJ3a7C247k/edit?usp=sharing)
+[State of the Cloud 2026](https://docs.google.com/presentation/d/1m70OL9qpZthElfkPw5rsSxunbfuZ3idy1zNst-1IHPw/edit?usp=sharing)
 
 [Lab 4 Platform as a Service Mulligan - DigitalOcean](https://docs.google.com/document/d/1hSLSXYpqaIg4u30UxgmwJg0QFAFNmME3-XY1g_Te3Ek/edit?usp=sharing)  
 
