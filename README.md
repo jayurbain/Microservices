@@ -234,6 +234,10 @@ Reading: Chapter 4 and 5 (BM).
 
 ---
 
+### 2026 Spring Break March 15-23
+
+---
+
 ### Week 9: Distributed Data Platforms, Spark
 
 [CAP Theorem](https://docs.google.com/presentation/d/14az2LNnlih-u7FtB7JtQ7ckJA88zLL0J8iDkf2FJWgc/edit?usp=sharing)  
