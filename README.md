@@ -300,8 +300,6 @@ Reading: Chapter 11 (BM).
 ### Week 13: Machine Learning Services, Additional Topics, Final Project 
 
 [Machine Learning Services](https://docs.google.com/presentation/d/1KA-pJfNPpuwMmj9ODOb1NvzCj8y3_ajoZqdmyXMV0qw/edit?usp=sharing)
-
-Wednesday No Class - Thanksgiving Break
  
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 
