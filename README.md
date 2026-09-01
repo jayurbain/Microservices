@@ -68,7 +68,7 @@ Grades will be rounded up for active class participants.
 Class will be structured in three parts: 
 - Cloud computing.   
 - Architecting microservices.  
-- Advanced topics incluging machine learning and agent services, and a final project.
+- Advanced topics including machine learning and agent services, and a final project.
 
 Office DH425  
 TBD: Arranged per request.
