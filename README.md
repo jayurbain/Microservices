@@ -8,9 +8,9 @@ needed to design and implement cloud-native microservices. Students will
 design, implement, deploy, and operate a microservice using widely used
 technologies and best practices.
 
-Emphasis will be placed on scalable web and machine learning services. 
+Emphasis will be placed on scalable web, machine learning, and agent services. 
 Students will apply what they learn in a series of hands-on lab exercises 
-and complete a final project using a distributed computing platform.
+and complete a final project deployed on, a distributed computing platform.
 
 ### Course Learning Outcomes
 
@@ -54,6 +54,7 @@ vector stores), tradeoffs between consistency, availability, and partition toler
 - CAP Theorem.
 - Discussion of public cloud services and comparisons of their offerings
 - Machine learning services
+- Agent services
 
 Grading (no final exam)  
 Weekly labs: 40%  
@@ -67,10 +68,11 @@ Grades will be rounded up for active class participants.
 Class will be structured in three parts: 
 - Cloud computing.   
 - Architecting microservices.  
-- Advanced topics and final project.
+- Advanced topics incluging machine learning and agent services, and a final project.
 
 Office DH425  
-TBD: As needed
+TBD: Arranged per request.
+The course in online and the second hour it typically reserved for lab work or office hours.
 
 References:  
 [Building Microservices, Second Edition, Sam Newman](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) (BM)
@@ -82,21 +84,23 @@ Extra reference:
 
 ### Week 1: Introduction to Microservices
 
-Note: No class Monday. First class December 21.
-
 [Introduction to Microservices](https://docs.google.com/presentation/d/1ky-Oj19UXCS4EycsV4bXkY2JojuUW1idTY6mxip15G8/edit?usp=sharing)
 
 [Lab 1 - Introduction to Cloud Computing using AWS](https://docs.google.com/document/d/1umFyMuCpuccp9mrPfZk4ygAGBxkZIVNvUsSXPyjq8h8/edit?usp=sharing)
 
 Reading: Chapter 1 (BM).
 
-David Parnas in “Information Distribution Aspects of Design Methodol‐
-ogy”, Information Processing: Proceedings of the IFIP Congress 1971 (Amsterdam: North-Holland, 1972),
+David Parnas in “Information Distribution Aspects of Design Methodology”, 
+Information Processing: Proceedings of the IFIP Congress 1971 (Amsterdam: North-Holland, 1972),
 1:339–44. https://oreil.ly/rDPWA 
 
 [Alistair Cockburn, “Hexagonal Architecture,” January 4, 2005.](https://oreil.ly/NfvTP)
  
 [M. Armbrust, A. Fox, R. Griffith, A. Joseph, R. Katz, A. Konwinski, G. Lee, D. Patterson, A. Rabkin, I. Stoica, and M. Zaharia. Above the Clouds: A Berkeley View of Cloud Computing, Technical Report No. UCB/EECS-2009-28.](http://jayurbain.com/msoe/cs4230/Readings/Above%20the%20Clouds%20-%20A%20Berkeley%20View%20of%20Cloud%20Computing.pdf)
+
+
+[Agent Services]()
+
 
 References:  
 [Nano Cheat Sheet](https://www.reddit.com/r/bashonubuntuonwindows/comments/iv3qcx/nano_cheatsheet/)  
@@ -143,17 +147,14 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.htm
 ---
 
 ### Week 4: Containers, Container Orchestration with Docker Compose and Kubernetes
-
-Monday:    
+ 
 [Container Orchestration](https://docs.google.com/presentation/d/1T4N9rcsfKk_Qlj6E3wxb-Js58_ifsG9wGLyVTKMYcRA/edit?usp=sharing)
 
 [Lab 6: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
-
-Wednesday:  
+ 
 [Microservices - Downside](https://docs.google.com/presentation/d/1fzJz0WhEM0bIxARdlXAmTXLHSwOU_sQRcqX53ATX18w/edit?usp=sharing)
 
 <!--
-
 Wednesday September 25th. Guest lecturer James Grant, VP Engineering, Direct Supply.  
 
 - Refactoring legacy systems  
@@ -232,11 +233,6 @@ Reading: Chapter 3 (BM).
 
 Reading: Chapter 4 and 5 (BM).
 
----
-
-### 2026 Spring Break March 15-23
-
----
 
 ### Week 9: Distributed Data Platforms, Spark
 
@@ -307,6 +303,12 @@ Reading: Chapter 11 (BM).
 
 ---
 
+### 2026 Thanksgiving Break - No class Thursday November 26.
+
+---
+
+---
+
 ### Week 14: Final Project Presentations
 
 [Monitoring Microservices](https://docs.google.com/presentation/d/1jxEu6G1Y1fd3sDA3dS_UH5g60Oz743wclIOjMsRU0qg/edit?usp=sharing)
@@ -331,13 +333,6 @@ Monday and Wednesday 5-minute boaster session for each project:
 - Status and lessons learned
 
 ### Week 16: Final Projects Presentations as needed
-
-Monday and Wednesday 5-minute boaster session for each project:
-- What is your project?
-- What problem does it solve?
-- Why were you interested in this project?
-- Brief explanation of your design and functionality.
-- Status and lessons learned
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)    
 
