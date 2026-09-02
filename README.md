@@ -84,11 +84,11 @@ Extra reference:
 
 ### Week 1: Introduction to Microservices
 
-[Introduction to Microservices](https://docs.google.com/presentation/d/1ky-Oj19UXCS4EycsV4bXkY2JojuUW1idTY6mxip15G8/edit?usp=sharing)
+[Microservices and Cloud Computing](https://docs.google.com/presentation/d/1ky-Oj19UXCS4EycsV4bXkY2JojuUW1idTY6mxip15G8/edit?usp=sharing)
 
 [Lab 1 - Introduction to Cloud Computing using AWS](https://docs.google.com/document/d/1umFyMuCpuccp9mrPfZk4ygAGBxkZIVNvUsSXPyjq8h8/edit?usp=sharing)
 
-Reading: Chapter 1 (BM).
+Reading: Chapter 1 (BM).git 
 
 David Parnas in “Information Distribution Aspects of Design Methodology”, 
 Information Processing: Proceedings of the IFIP Congress 1971 (Amsterdam: North-Holland, 1972),
@@ -99,8 +99,7 @@ Information Processing: Proceedings of the IFIP Congress 1971 (Amsterdam: North-
 [M. Armbrust, A. Fox, R. Griffith, A. Joseph, R. Katz, A. Konwinski, G. Lee, D. Patterson, A. Rabkin, I. Stoica, and M. Zaharia. Above the Clouds: A Berkeley View of Cloud Computing, Technical Report No. UCB/EECS-2009-28.](http://jayurbain.com/msoe/cs4230/Readings/Above%20the%20Clouds%20-%20A%20Berkeley%20View%20of%20Cloud%20Computing.pdf)
 
 
-[Agent Services]()
-
+[Introduction to Microservices](https://docs.google.com/presentation/d/1iq6Ez7Dy9dKk3etAYwA4CgQchXqT9gqpvHV7bPCmMlI/edit?usp=sharing)
 
 References:  
 [Nano Cheat Sheet](https://www.reddit.com/r/bashonubuntuonwindows/comments/iv3qcx/nano_cheatsheet/)  
