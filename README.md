@@ -116,7 +116,7 @@ References:
 
 [Lab 3: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
 
-[Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
+[Auto Scaling Computing Clusters](https://drive.google.com/file/d/1jIGLRcSmfp7dQyXv0ngCwPCkVi9ZE768/view?usp=sharing)
 
 Reading:   
 [Virtual Machine Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)  
