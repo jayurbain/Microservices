@@ -277,6 +277,7 @@ References:
 
 [Midterm 2 Exam Review Guide](https://docs.google.com/document/d/1a2sXv7dq_2aONe5A_aiiCCOYcp8HI5P9/edit?usp=sharing&ouid=114095891007675323509&rtpof=true&sd=true)
 
+[Final Project Proposal](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)
 ---
 
 ### Week 12: Midterm 2, Authentication and Authorization
