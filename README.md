@@ -324,14 +324,12 @@ Reading: Chapter 11 (BM).
 
 [Build LLM Agent combining Reasoning and Action (ReAct) framework using LangChain](https://github.com/jayurbain/SearchML/blob/main/labs/ReAct_Example.ipynb)
 
-Monday and Wednesday 5-minute boaster session for each project:
+Tuesday and Thursday 5-minute boaster session for each project:
 - What is your project?
 - What problem does it solve?
 - Why were you interested in this project?
 - Brief explanation of your design and functionality.
 - Status and lessons learned
-
-### Week 16: Final Projects Presentations as needed
 
 [Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)    
 
